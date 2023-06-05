@@ -847,4 +847,21 @@
     	"feat": "Inception",
     	"invert": true
   }
+	{
+ 		"name": "Minecraft 1.5.2",
+  		"icon": "https://raw.githubusercontent.com/win11react/store/main/store/img/minecraft.png",
+  		"type": "game",
+  		"data": {
+    			"type": "IFrame",
+    			"url": "https://ar-cyber.github.io/eaglercraft",
+    			"gallery": [
+      				"https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
+      				"https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
+      				"https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg"
+    			],
+    		"desc": "This is minecraft 1.5.2 Emulated using TeaVM", 
+    		"feat": "Play your favourite servers, makes ", 
+    		"invert": true 
+  }
+}
 }]
